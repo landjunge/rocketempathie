@@ -2,7 +2,7 @@
 
 Öffentlich. Zwei Stimmen, eine Gitarre, sieben Stücke.
 
-Live: https://rocketempathie.grok.me/band
+Öffentlich auf GitHub: https://github.com/landjunge/rocketempathie
 
 ## landjunge (Daniel Filipek)
 
@@ -29,7 +29,6 @@ Die Saiten unter dem Text. Gitarre, die trägt. Gesang, der mitgeht. Die andere 
 6. Wie lange muss ich auf dich warten
 7. Rocket Empathy
 
-Hören: https://rocketempathie.grok.me  
-Texte: https://rocketempathie.grok.me/texte
+Texte: https://github.com/landjunge/rocketempathie/blob/main/TEXTE.md
 
 > Es gibt keine Lösung, nur Möglichkeiten.
