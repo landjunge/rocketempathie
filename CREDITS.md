@@ -7,4 +7,4 @@
 
 Sieben eigene Stücke. Herz drücken, zuhören.
 
-Live: https://rocketempathie.grok.me/band
+https://github.com/landjunge/rocketempathie
