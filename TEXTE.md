@@ -55,7 +55,7 @@ verbunden bis in die Ewigkeit
 
 Ich kauf mir ne Villa am Strand und fahr einen geilen Cadillac  
 bin mit Steven Spielberg verwandt und Hartgeld schmeiß ich weg  
-ich besorg mir Cooks ohne Ende und liebe mein Leben  
+ich besorg mir Koks ohne Ende und liebe mein Leben  
 ich tapezier mit Dollars meine Wände und will nur noch schweben  
 und will nur noch schweben  
 
