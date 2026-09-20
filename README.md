@@ -39,10 +39,10 @@ Gitarre, Gesang. Die Saiten unter dem Text. Gitarre, die trägt. Gesang, der mit
 
 **Strophe 1**
 
-mit dir geh ich gern spazieren  
-verregnet ist der tag  
-es riecht nach frisch gepflückten blumen  
-Die du doch so gerne magst  
+Mit dir geh ich gern spazieren  
+verregnet ist der Tag  
+es riecht nach frisch gepflückten Blumen  
+die du doch so gerne magst  
 Du kommst so selten mich besuchen  
 Ich weiß, dass du jetzt nicht kannst  
 Vielleicht später, wenn du magst  
@@ -50,15 +50,15 @@ Vielleicht später, wenn du kannst
 
 **Refrain**
 
-Die Zeit ist stehen geblieben  
+Die Zeit ist stehengeblieben  
 Was ist heute für ein Tag  
 Ich bleib noch ein bisschen liegen  
 Weil ich diesen Traum noch hab  
 In meiner Traumwelt bist du mir so nah  
 ich kann dich fast berühren  
-in meiner traumwelt ist fast alles machbar  
-Doch eins ich kann die zeit nicht  
-zurück drehen  
+in meiner Traumwelt ist fast alles machbar  
+Doch eins: ich kann die Zeit nicht  
+zurückdrehen  
 
 **Refrain**
 
@@ -78,10 +78,10 @@ verbunden bis in die Ewigkeit
 
 **Strophe 1**
 
-ich kauf mir ne villa am strand und fahr einen geilen Cadillac  
-bin mit Steven Spielberg verwand und hardgeld schmeiß ich weg  
-ich besorg mir Cooks ohne ende und liebe mein leben  
-ich tapezier mit dollars meine wende und will nur noch schweben  
+Ich kauf mir ne Villa am Strand und fahr einen geilen Cadillac  
+bin mit Steven Spielberg verwandt und Hartgeld schmeiß ich weg  
+ich besorg mir Cooks ohne Ende und liebe mein Leben  
+ich tapezier mit Dollars meine Wände und will nur noch schweben  
 und will nur noch schweben  
 
 **Strophe 2**
@@ -95,20 +95,20 @@ Ich kauf' mir einen guten Mann, der für mich regieren kann
 
 **Strophe 4**
 
-Ich langweile mich im SpielCasino, und manchmal geh' ich aufs Klo  
+Ich langweile mich im Spielcasino, und manchmal geh' ich aufs Klo  
 und stürzt mal ein Flugzeug ab, das macht mich froh  
 
 **Refrain**
 
-ich werd den abschaum aus den strassen kehren  
+Ich werd den Abschaum aus den Straßen kehren  
 ihr könnt euch ja sowieso nicht wehren  
 
 **Outro**
 
-ich nehm mein geld mit in den Sarg  
-und habe angst vorm nächsten leben  
+Ich nehm mein Geld mit in den Sarg  
+und habe Angst vorm nächsten Leben  
 Ob man mich dort auch mag  
-wird man mir dort auch geld geben  
+wird man mir dort auch Geld geben  
 
 
 ---
@@ -186,7 +186,7 @@ Jeder geht einmal — fort.
 **Strophe 3**
 
 Ein leises Echo schreit, was niemand mehr empfängt.  
-Du siehst dich selbst darin, das Bild wird zerrt.  
+Du siehst dich selbst darin, das Bild wird verzerrt.  
 Was früher Freude war, ist heute nur noch Schmerz.  
 In Scherben liegt die Zeit, die man nicht mehr fängt.  
 
@@ -318,7 +318,7 @@ und träumen davon, ewig in der Ewigkeit zu stehn.
 **Strophe 4**
 
 Wir weben Träume aus Mondlicht und Sternenstaub,  
-sie leuchten hell, wenn die Welt still und taub.  
+sie leuchten hell, wenn die Welt still und taub ist.  
 Während die Uhr rückwärts tickt durch die Zeit,  
 tanzen wir durch die Ewigkeit, Hand in Hand bereit –  
 für immer verbunden im unendlichen Raum,  
